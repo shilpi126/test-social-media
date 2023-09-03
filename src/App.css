@@ -1,0 +1,74 @@
+body{
+  background-color:rgb(230, 235, 240);
+}
+
+
+.feed-container{
+  display: flex;
+  margin: 1rem;
+  background-color:rgb(230, 235, 240);
+  
+  
+}
+
+.post-container{
+  height: 100%;
+  width: 90%;
+  
+}
+
+.comment-container{
+  height: 100%;
+  width: 60%;
+  margin-top: 3.5rem;
+  margin-left: -20%;
+  
+ 
+}
+
+
+
+.post-data{
+  height: 10rem;
+  width: 70%;
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid lightgray;
+  border-radius: 2rem;
+  color: gray;
+  text-align: center;
+  font-size: small;
+  background-color: white;
+
+}
+
+
+
+.comment-data{
+  height: 10rem;
+  width: 80%;
+  padding: 1rem;
+  border: 1px solid lightgray;
+  border-radius: 2rem;
+  margin-bottom: 2rem;
+  color: grey;
+  background-color: rgb(205, 212, 212);
+  font-size:1vmax;
+  
+}
+
+
+
+.select-opt{
+  height: 2rem;
+  width: 70%;
+  border-radius: 0.5rem;
+  border-style: none;
+  border: 1px solid lightgray;
+}
+
+
+
+
+
+
